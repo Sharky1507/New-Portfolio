@@ -1,1 +1,1 @@
-- Portfolio built using HTML,CSS and bootstrap.
+- Portfolio built using HTML,CSS and Bootstrap.
